@@ -1,0 +1,1 @@
+[{"zeile":1,"text":"Einkauf","beschreibung":"Unternehmen kauft Waren. 300 Stück für je 1 EUR pro Stück.","soll":[{"konto":"Wareneinkauf","text":"","betrag":"300"}],"haben":[{"konto":"Bank","text":"","betrag":"300"}],"color":"","aktivpointer":false}]
